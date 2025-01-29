@@ -70,7 +70,7 @@ div {
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
-    margin-bottom: 2px solid #ffffff;
+    border-bottom: 2px solid #ffffff;
 }
 
 .yellow p {
