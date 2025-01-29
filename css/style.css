@@ -48,17 +48,17 @@ div {
 .red {
     background-color: #ff0000;
     text-align: right;
-    margin-left: 20px;
-    border-bottom: 2px;
-    border-left: 5px;
+    margin-left: 50px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 5px solid #ffffff;
 }
 
 .blue {
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-right: 5px;
-    border-top: 2px;
+    border-right: 5px solid #ffffff;
+    border-top: 2px solid #ffffff;
 }
 
 .blue h2,
@@ -70,8 +70,7 @@ div {
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
-    margin-bottom: 2px;
-    margin-left: 5px;
+    margin-bottom: 2px solid #ffffff;
 }
 
 .yellow p {
@@ -82,8 +81,8 @@ div {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-right: 5px;
-    border-top: 2px;
+    border-right: 5px solid #ffffff;
+    border-top: 2px solid #ffffff;
 }
 
 footer {
