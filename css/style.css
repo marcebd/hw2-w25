@@ -68,7 +68,7 @@ div {
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
-    border-width: 0 0 2px 0;
+    border-width: 0 0 2px 5px;
 }
 
 .yellow p {
